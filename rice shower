@@ -1,0 +1,1 @@
+python inference_main.py -m "models/RiceShower/RiceShower.pth" -c "models/RiceShower/config.json" -n "xxx.wav" -t x -s "RiceShower" -shd -dm "models/RiceShower/RiceShower.pt" -dc "models/RiceShower/diffusion.yaml"
